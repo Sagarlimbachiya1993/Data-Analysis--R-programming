@@ -1,0 +1,76 @@
+REF_DATE,GEO,Age group,Sex,Characteristics,VALUE
+2010/2012,Canada,At birth,Both sexes,Health-adjusted life expectancy,70.4
+2015/2017,Canada,At birth,Both sexes,Health-adjusted life expectancy,69.7
+2010/2012,Canada,At birth,Males,Health-adjusted life expectancy,69.4
+2015/2017,Canada,At birth,Males,Health-adjusted life expectancy,68.9
+2010/2012,Canada,At birth,Females,Health-adjusted life expectancy,71.4
+2015/2017,Canada,At birth,Females,Health-adjusted life expectancy,70.4
+2010/2012,Newfoundland and Labrador,At birth,Both sexes,Health-adjusted life expectancy,68.5
+2015/2017,Newfoundland and Labrador,At birth,Both sexes,Health-adjusted life expectancy,66.4
+2010/2012,Newfoundland and Labrador,At birth,Males,Health-adjusted life expectancy,67.1
+2015/2017,Newfoundland and Labrador,At birth,Males,Health-adjusted life expectancy,66.4
+2010/2012,Newfoundland and Labrador,At birth,Females,Health-adjusted life expectancy,69.9
+2015/2017,Newfoundland and Labrador,At birth,Females,Health-adjusted life expectancy,66.3
+2010/2012,Prince Edward Island,At birth,Both sexes,Health-adjusted life expectancy,70.1
+2015/2017,Prince Edward Island,At birth,Both sexes,Health-adjusted life expectancy,70.3
+2010/2012,Prince Edward Island,At birth,Males,Health-adjusted life expectancy,68.2
+2015/2017,Prince Edward Island,At birth,Males,Health-adjusted life expectancy,67.6
+2010/2012,Prince Edward Island,At birth,Females,Health-adjusted life expectancy,71.9
+2015/2017,Prince Edward Island,At birth,Females,Health-adjusted life expectancy,72.5
+2010/2012,Nova Scotia,At birth,Both sexes,Health-adjusted life expectancy,68.2
+2015/2017,Nova Scotia,At birth,Both sexes,Health-adjusted life expectancy,67.8
+2010/2012,Nova Scotia,At birth,Males,Health-adjusted life expectancy,66.9
+2015/2017,Nova Scotia,At birth,Males,Health-adjusted life expectancy,66.1
+2010/2012,Nova Scotia,At birth,Females,Health-adjusted life expectancy,69.4
+2015/2017,Nova Scotia,At birth,Females,Health-adjusted life expectancy,69.5
+2010/2012,New Brunswick,At birth,Both sexes,Health-adjusted life expectancy,69.3
+2015/2017,New Brunswick,At birth,Both sexes,Health-adjusted life expectancy,67.9
+2010/2012,New Brunswick,At birth,Males,Health-adjusted life expectancy,67.4
+2015/2017,New Brunswick,At birth,Males,Health-adjusted life expectancy,67
+2010/2012,New Brunswick,At birth,Females,Health-adjusted life expectancy,71.2
+2015/2017,New Brunswick,At birth,Females,Health-adjusted life expectancy,68.9
+2010/2012,Quebec,At birth,Both sexes,Health-adjusted life expectancy,71.5
+2015/2017,Quebec,At birth,Both sexes,Health-adjusted life expectancy,71.6
+2010/2012,Quebec,At birth,Males,Health-adjusted life expectancy,70.2
+2015/2017,Quebec,At birth,Males,Health-adjusted life expectancy,71.2
+2010/2012,Quebec,At birth,Females,Health-adjusted life expectancy,72.6
+2015/2017,Quebec,At birth,Females,Health-adjusted life expectancy,72
+2010/2012,Ontario,At birth,Both sexes,Health-adjusted life expectancy,70.3
+2015/2017,Ontario,At birth,Both sexes,Health-adjusted life expectancy,69.5
+2010/2012,Ontario,At birth,Males,Health-adjusted life expectancy,69.6
+2015/2017,Ontario,At birth,Males,Health-adjusted life expectancy,68.9
+2010/2012,Ontario,At birth,Females,Health-adjusted life expectancy,70.9
+2015/2017,Ontario,At birth,Females,Health-adjusted life expectancy,70.1
+2010/2012,Manitoba,At birth,Both sexes,Health-adjusted life expectancy,68.4
+2015/2017,Manitoba,At birth,Both sexes,Health-adjusted life expectancy,67.2
+2010/2012,Manitoba,At birth,Males,Health-adjusted life expectancy,67.3
+2015/2017,Manitoba,At birth,Males,Health-adjusted life expectancy,66.8
+2010/2012,Manitoba,At birth,Females,Health-adjusted life expectancy,69.5
+2015/2017,Manitoba,At birth,Females,Health-adjusted life expectancy,67.6
+2010/2012,Saskatchewan,At birth,Both sexes,Health-adjusted life expectancy,68.7
+2015/2017,Saskatchewan,At birth,Both sexes,Health-adjusted life expectancy,67.7
+2010/2012,Saskatchewan,At birth,Males,Health-adjusted life expectancy,67.4
+2015/2017,Saskatchewan,At birth,Males,Health-adjusted life expectancy,66.5
+2010/2012,Saskatchewan,At birth,Females,Health-adjusted life expectancy,70.1
+2015/2017,Saskatchewan,At birth,Females,Health-adjusted life expectancy,69
+2010/2012,Alberta,At birth,Both sexes,Health-adjusted life expectancy,69.3
+2015/2017,Alberta,At birth,Both sexes,Health-adjusted life expectancy,68.8
+2010/2012,Alberta,At birth,Males,Health-adjusted life expectancy,68.5
+2015/2017,Alberta,At birth,Males,Health-adjusted life expectancy,68.4
+2010/2012,Alberta,At birth,Females,Health-adjusted life expectancy,70.3
+2015/2017,Alberta,At birth,Females,Health-adjusted life expectancy,69.4
+2010/2012,British Columbia,At birth,Both sexes,Health-adjusted life expectancy,71.5
+2015/2017,British Columbia,At birth,Both sexes,Health-adjusted life expectancy,69.6
+2010/2012,British Columbia,At birth,Males,Health-adjusted life expectancy,70.3
+2015/2017,British Columbia,At birth,Males,Health-adjusted life expectancy,67.9
+2010/2012,British Columbia,At birth,Females,Health-adjusted life expectancy,72.6
+2015/2017,British Columbia,At birth,Females,Health-adjusted life expectancy,71.3
+2010/2012,Yukon,At birth,Both sexes,Health-adjusted life expectancy,65.7
+2010/2012,Yukon,At birth,Males,Health-adjusted life expectancy,64.4
+2010/2012,Yukon,At birth,Females,Health-adjusted life expectancy,66.7
+2010/2012,Northwest Territories,At birth,Both sexes,Health-adjusted life expectancy,66.6
+2010/2012,Northwest Territories,At birth,Males,Health-adjusted life expectancy,66.3
+2010/2012,Northwest Territories,At birth,Females,Health-adjusted life expectancy,66.6
+2010/2012,Nunavut,At birth,Both sexes,Health-adjusted life expectancy,61.4
+2010/2012,Nunavut,At birth,Males,Health-adjusted life expectancy,60.1
+2010/2012,Nunavut,At birth,Females,Health-adjusted life expectancy,64

@@ -1,0 +1,266 @@
+﻿REF_DATE,Province ID,Province Name,GEO,VALUE
+2018,1,Newfoundland and Labrador,"Newfoundland and Labrador, rural",42539
+2019,1,Newfoundland and Labrador,"Newfoundland and Labrador, rural",43101
+2020,1,Newfoundland and Labrador,"Newfoundland and Labrador, rural",43214
+2021,1,Newfoundland and Labrador,"Newfoundland and Labrador, rural",44885
+2022,1,Newfoundland and Labrador,"Newfoundland and Labrador, rural",48488
+2018,1,Newfoundland and Labrador,"Newfoundland and Labrador, population under 30,000",42926
+2019,1,Newfoundland and Labrador,"Newfoundland and Labrador, population under 30,000",43492
+2020,1,Newfoundland and Labrador,"Newfoundland and Labrador, population under 30,000",43606
+2021,1,Newfoundland and Labrador,"Newfoundland and Labrador, population under 30,000",45291
+2022,1,Newfoundland and Labrador,"Newfoundland and Labrador, population under 30,000",48920
+2018,1,Newfoundland and Labrador,"Newfoundland and Labrador, population 30,000 to 99,999",44167
+2019,1,Newfoundland and Labrador,"Newfoundland and Labrador, population 30,000 to 99,999",44775
+2020,1,Newfoundland and Labrador,"Newfoundland and Labrador, population 30,000 to 99,999",44911
+2021,1,Newfoundland and Labrador,"Newfoundland and Labrador, population 30,000 to 99,999",46549
+2022,1,Newfoundland and Labrador,"Newfoundland and Labrador, population 30,000 to 99,999",50238
+2018,1,Newfoundland and Labrador,"St. John's, Newfoundland and Labrador",44808
+2019,1,Newfoundland and Labrador,"St. John's, Newfoundland and Labrador",45434
+2020,1,Newfoundland and Labrador,"St. John's, Newfoundland and Labrador",45564
+2021,1,Newfoundland and Labrador,"St. John's, Newfoundland and Labrador",47215
+2022,1,Newfoundland and Labrador,"St. John's, Newfoundland and Labrador",50931
+2018,2,Prince Edward Island,"Prince Edward Island, rural",41520
+2019,2,Prince Edward Island,"Prince Edward Island, rural",42284
+2020,2,Prince Edward Island,"Prince Edward Island, rural",42745
+2021,2,Prince Edward Island,"Prince Edward Island, rural",44753
+2022,2,Prince Edward Island,"Prince Edward Island, rural",49056
+2018,2,Prince Edward Island,"Prince Edward Island, population under 30,000",42283
+2019,2,Prince Edward Island,"Prince Edward Island, population under 30,000",43056
+2020,2,Prince Edward Island,"Prince Edward Island, population under 30,000",43517
+2021,2,Prince Edward Island,"Prince Edward Island, population under 30,000",45564
+2022,2,Prince Edward Island,"Prince Edward Island, population under 30,000",49939
+2018,2,Prince Edward Island,"Charlottetown, Prince Edward Island",43205
+2019,2,Prince Edward Island,"Charlottetown, Prince Edward Island",44027
+2020,2,Prince Edward Island,"Charlottetown, Prince Edward Island",44505
+2021,2,Prince Edward Island,"Charlottetown, Prince Edward Island",46551
+2022,2,Prince Edward Island,"Charlottetown, Prince Edward Island",51033
+2018,3,Nova Scotia,"Nova Scotia, rural",41588
+2019,3,Nova Scotia,"Nova Scotia, rural",42460
+2020,3,Nova Scotia,"Nova Scotia, rural",42812
+2021,3,Nova Scotia,"Nova Scotia, rural",44538
+2022,3,Nova Scotia,"Nova Scotia, rural",48476
+2018,3,Nova Scotia,"Nova Scotia, population under 30,000",42494
+2019,3,Nova Scotia,"Nova Scotia, population under 30,000",43380
+2020,3,Nova Scotia,"Nova Scotia, population under 30,000",43735
+2021,3,Nova Scotia,"Nova Scotia, population under 30,000",45498
+2022,3,Nova Scotia,"Nova Scotia, population under 30,000",49508
+2018,3,Nova Scotia,"Nova Scotia, population 30,000 to 99,999",42800
+2019,3,Nova Scotia,"Nova Scotia, population 30,000 to 99,999",43705
+2020,3,Nova Scotia,"Nova Scotia, population 30,000 to 99,999",44076
+2021,3,Nova Scotia,"Nova Scotia, population 30,000 to 99,999",45781
+2022,3,Nova Scotia,"Nova Scotia, population 30,000 to 99,999",49800
+2018,3,Nova Scotia,"Halifax, Nova Scotia",45197
+2019,3,Nova Scotia,"Halifax, Nova Scotia",46147
+2020,3,Nova Scotia,"Halifax, Nova Scotia",46527
+2021,3,Nova Scotia,"Halifax, Nova Scotia",48263
+2022,3,Nova Scotia,"Halifax, Nova Scotia",52439
+2018,3,Nova Scotia,"Cape Breton, Nova Scotia",41533
+2019,3,Nova Scotia,"Cape Breton, Nova Scotia",42405
+2020,3,Nova Scotia,"Cape Breton, Nova Scotia",42754
+2021,3,Nova Scotia,"Cape Breton, Nova Scotia",44405
+2022,3,Nova Scotia,"Cape Breton, Nova Scotia",48287
+2018,4,New Brunswick,"New Brunswick, rural",40766
+2019,4,New Brunswick,"New Brunswick, rural",41716
+2020,4,New Brunswick,"New Brunswick, rural",41965
+2021,4,New Brunswick,"New Brunswick, rural",43714
+2022,4,New Brunswick,"New Brunswick, rural",47508
+2018,4,New Brunswick,"New Brunswick, population under 30,000",42284
+2019,4,New Brunswick,"New Brunswick, population under 30,000",43259
+2020,4,New Brunswick,"New Brunswick, population under 30,000",43512
+2021,4,New Brunswick,"New Brunswick, population under 30,000",45320
+2022,4,New Brunswick,"New Brunswick, population under 30,000",49231
+2018,4,New Brunswick,"New Brunswick, population 30,000 to 99,999",42058
+2019,4,New Brunswick,"New Brunswick, population 30,000 to 99,999",43030
+2020,4,New Brunswick,"New Brunswick, population 30,000 to 99,999",43282
+2021,4,New Brunswick,"New Brunswick, population 30,000 to 99,999",45081
+2022,4,New Brunswick,"New Brunswick, population 30,000 to 99,999",48975
+2018,4,New Brunswick,"Fredericton, New Brunswick",43906
+2019,4,New Brunswick,"Fredericton, New Brunswick",44932
+2020,4,New Brunswick,"Fredericton, New Brunswick",45211
+2021,4,New Brunswick,"Fredericton, New Brunswick",46954
+2022,4,New Brunswick,"Fredericton, New Brunswick",50995
+2018,4,New Brunswick,"Saint John, New Brunswick",41700
+2019,4,New Brunswick,"Saint John, New Brunswick",42685
+2020,4,New Brunswick,"Saint John, New Brunswick",42953
+2021,4,New Brunswick,"Saint John, New Brunswick",44599
+2022,4,New Brunswick,"Saint John, New Brunswick",48468
+2018,4,New Brunswick,"Moncton, New Brunswick",42026
+2019,4,New Brunswick,"Moncton, New Brunswick",43001
+2020,4,New Brunswick,"Moncton, New Brunswick",43257
+2021,4,New Brunswick,"Moncton, New Brunswick",44932
+2022,4,New Brunswick,"Moncton, New Brunswick",48790
+2018,5,Quebec,"Quebec, rural",37804
+2019,5,Quebec,"Quebec, rural",38654
+2020,5,Quebec,"Quebec, rural",39040
+2021,5,Quebec,"Quebec, rural",40417
+2022,5,Quebec,"Quebec, rural",43545
+2018,5,Quebec,"Quebec, population under 30,000",37397
+2019,5,Quebec,"Quebec, population under 30,000",38239
+2020,5,Quebec,"Quebec, population under 30,000",38622
+2021,5,Quebec,"Quebec, population under 30,000",39982
+2022,5,Quebec,"Quebec, population under 30,000",43082
+2018,5,Quebec,"Quebec, population 30,000 to 99,999",37442
+2019,5,Quebec,"Quebec, population 30,000 to 99,999",38297
+2020,5,Quebec,"Quebec, population 30,000 to 99,999",38685
+2021,5,Quebec,"Quebec, population 30,000 to 99,999",39984
+2022,5,Quebec,"Quebec, population 30,000 to 99,999",43022
+2018,5,Quebec,"Quebec, population 100,000 to 499,999",37940
+2019,5,Quebec,"Quebec, population 100,000 to 499,999",38811
+2020,5,Quebec,"Quebec, population 100,000 to 499,999",39202
+2021,5,Quebec,"Quebec, population 100,000 to 499,999",40505
+2022,5,Quebec,"Quebec, population 100,000 to 499,999",43566
+2018,5,Quebec,"Québec, Quebec",39601
+2019,5,Quebec,"Québec, Quebec",40515
+2020,5,Quebec,"Québec, Quebec",40924
+2021,5,Quebec,"Québec, Quebec",42258
+2022,5,Quebec,"Québec, Quebec",45411
+2018,5,Quebec,"Montréal, Québec",40160
+2019,5,Quebec,"Montréal, Québec",41090
+2020,5,Quebec,"Montréal, Québec",41506
+2021,5,Quebec,"Montréal, Québec",42845
+2022,5,Quebec,"Montréal, Québec",46027
+2018,6,Ontario,"Ontario, rural",40576
+2019,6,Ontario,"Ontario, rural",41515
+2020,6,Ontario,"Ontario, rural",41840
+2021,6,Ontario,"Ontario, rural",43269
+2022,6,Ontario,"Ontario, rural",46636
+2018,6,Ontario,"Ontario, population under 30,000",41250
+2019,6,Ontario,"Ontario, population under 30,000",42202
+2020,6,Ontario,"Ontario, population under 30,000",42531
+2021,6,Ontario,"Ontario, population under 30,000",43985
+2022,6,Ontario,"Ontario, population under 30,000",47400
+2018,6,Ontario,"Ontario, population 30,000 to 99,999",40769
+2019,6,Ontario,"Ontario, population 30,000 to 99,999",41748
+2020,6,Ontario,"Ontario, population 30,000 to 99,999",42098
+2021,6,Ontario,"Ontario, population 30,000 to 99,999",43462
+2022,6,Ontario,"Ontario, population 30,000 to 99,999",46799
+2018,6,Ontario,"Ontario, population 100,000 to 499,999",42933
+2019,6,Ontario,"Ontario, population 100,000 to 499,999",43968
+2020,6,Ontario,"Ontario, population 100,000 to 499,999",44340
+2021,6,Ontario,"Ontario, population 100,000 to 499,999",45776
+2022,6,Ontario,"Ontario, population 100,000 to 499,999",49290
+2018,6,Ontario,"Ontario, population 500,000 and over",44851
+2019,6,Ontario,"Ontario, population 500,000 and over",45921
+2020,6,Ontario,"Ontario, population 500,000 and over",46306
+2021,6,Ontario,"Ontario, population 500,000 and over",47813
+2022,6,Ontario,"Ontario, population 500,000 and over",51468
+2018,6,Ontario,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",47233
+2019,6,Ontario,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",48391
+2020,6,Ontario,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",48816
+2021,6,Ontario,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",50355
+2022,6,Ontario,"Ottawa-Gatineau, Ontario part, Ontario/Quebec",54177
+2018,6,Ontario,"Hamilton/Burlington, Ontario",43517
+2019,6,Ontario,"Hamilton/Burlington, Ontario",44568
+2020,6,Ontario,"Hamilton/Burlington, Ontario",44943
+2021,6,Ontario,"Hamilton/Burlington, Ontario",46400
+2022,6,Ontario,"Hamilton/Burlington, Ontario",49952
+2018,6,Ontario,"Toronto, Ontario",48142
+2019,6,Ontario,"Toronto, Ontario",49304
+2020,6,Ontario,"Toronto, Ontario",49727
+2021,6,Ontario,"Toronto, Ontario",51350
+2022,6,Ontario,"Toronto, Ontario",55262
+2018,7,Manitoba,"Manitoba, rural",38954
+2019,7,Manitoba,"Manitoba, rural",39931
+2020,7,Manitoba,"Manitoba, rural",40126
+2021,7,Manitoba,"Manitoba, rural",41419
+2022,7,Manitoba,"Manitoba, rural",45233
+2018,7,Manitoba,"Manitoba, population under 30,000",40780
+2019,7,Manitoba,"Manitoba, population under 30,000",41797
+2020,7,Manitoba,"Manitoba, population under 30,000",42003
+2021,7,Manitoba,"Manitoba, population under 30,000",43357
+2022,7,Manitoba,"Manitoba, population under 30,000",47324
+2018,7,Manitoba,"Manitoba, population 30,000 to 99,999",40842
+2019,7,Manitoba,"Manitoba, population 30,000 to 99,999",41861
+2020,7,Manitoba,"Manitoba, population 30,000 to 99,999",42067
+2021,7,Manitoba,"Manitoba, population 30,000 to 99,999",43423
+2022,7,Manitoba,"Manitoba, population 30,000 to 99,999",47395
+2018,7,Manitoba,"Brandon, Manitoba",40404
+2019,7,Manitoba,"Brandon, Manitoba",41442
+2020,7,Manitoba,"Brandon, Manitoba",41678
+2021,7,Manitoba,"Brandon, Manitoba",42953
+2022,7,Manitoba,"Brandon, Manitoba",46779
+2018,7,Manitoba,"Winnipeg, Manitoba",44030
+2019,7,Manitoba,"Winnipeg, Manitoba",45164
+2020,7,Manitoba,"Winnipeg, Manitoba",45428
+2021,7,Manitoba,"Winnipeg, Manitoba",46810
+2022,7,Manitoba,"Winnipeg, Manitoba",50942
+2018,8,Saskatchewan,"Saskatchewan, rural",40280
+2019,8,Saskatchewan,"Saskatchewan, rural",41150
+2020,8,Saskatchewan,"Saskatchewan, rural",41473
+2021,8,Saskatchewan,"Saskatchewan, rural",42688
+2022,8,Saskatchewan,"Saskatchewan, rural",46049
+2018,8,Saskatchewan,"Saskatchewan, population under 30,000",42003
+2019,8,Saskatchewan,"Saskatchewan, population under 30,000",42902
+2020,8,Saskatchewan,"Saskatchewan, population under 30,000",43236
+2021,8,Saskatchewan,"Saskatchewan, population under 30,000",44497
+2022,8,Saskatchewan,"Saskatchewan, population under 30,000",47976
+2018,8,Saskatchewan,"Saskatchewan, population 30,000 to 99,999",42208
+2019,8,Saskatchewan,"Saskatchewan, population 30,000 to 99,999",43140
+2020,8,Saskatchewan,"Saskatchewan, population 30,000 to 99,999",43489
+2021,8,Saskatchewan,"Saskatchewan, population 30,000 to 99,999",44713
+2022,8,Saskatchewan,"Saskatchewan, population 30,000 to 99,999",48139
+2018,8,Saskatchewan,"Saskatoon, Saskatchewan",45652
+2019,8,Saskatchewan,"Saskatoon, Saskatchewan",46654
+2020,8,Saskatchewan,"Saskatoon, Saskatchewan",47025
+2021,8,Saskatchewan,"Saskatoon, Saskatchewan",48342
+2022,8,Saskatchewan,"Saskatoon, Saskatchewan",52018
+2018,8,Saskatchewan,"Regina, Saskatchewan",44833
+2019,8,Saskatchewan,"Regina, Saskatchewan",45825
+2020,8,Saskatchewan,"Regina, Saskatchewan",46188
+2021,8,Saskatchewan,"Regina, Saskatchewan",47482
+2022,8,Saskatchewan,"Regina, Saskatchewan",51101
+2018,9,Alberta,"Alberta, rural",45047
+2018,9,Alberta,"Alberta, population under 30,000",46158
+2018,9,Alberta,"Alberta, population 30,000 to 99,999",44874
+2018,9,Alberta,"Alberta, population 100,000 to 499,999",45468
+2018,9,Alberta,"Edmonton, Alberta",47869
+2018,9,Alberta,"Calgary, Alberta",48349
+2019,9,Alberta,"Alberta, rural",46054
+2019,9,Alberta,"Alberta, population under 30,000",47184
+2019,9,Alberta,"Alberta, population 30,000 to 99,999",45919
+2019,9,Alberta,"Alberta, population 100,000 to 499,999",46530
+2019,9,Alberta,"Edmonton, Alberta",48967
+2019,9,Alberta,"Calgary, Alberta",49462
+2020,9,Alberta,"Alberta, rural",46816
+2020,9,Alberta,"Alberta, population under 30,000",47959
+2020,9,Alberta,"Alberta, population 30,000 to 99,999",46666
+2020,9,Alberta,"Alberta, population 100,000 to 499,999",47280
+2020,9,Alberta,"Edmonton, Alberta",49723
+2020,9,Alberta,"Calgary, Alberta",50223
+2021,9,Alberta,"Alberta, rural",48446
+2021,9,Alberta,"Alberta, population under 30,000",49626
+2021,9,Alberta,"Alberta, population 30,000 to 99,999",48197
+2021,9,Alberta,"Alberta, population 100,000 to 499,999",48831
+2021,9,Alberta,"Edmonton, Alberta",51351
+2021,9,Alberta,"Calgary, Alberta",51861
+2022,9,Alberta,"Alberta, rural",52156
+2022,9,Alberta,"Alberta, population under 30,000",53411
+2022,9,Alberta,"Alberta, population 30,000 to 99,999",51867
+2022,9,Alberta,"Alberta, population 100,000 to 499,999",52555
+2022,9,Alberta,"Edmonton, Alberta",55225
+2022,9,Alberta,"Calgary, Alberta",55771
+2018,10,British Columbia,"British Columbia, rural",41463
+2019,10,British Columbia,"British Columbia, rural",42628
+2020,10,British Columbia,"British Columbia, rural",43069
+2021,10,British Columbia,"British Columbia, rural",44207
+2022,10,British Columbia,"British Columbia, rural",47554
+2018,10,British Columbia,"British Columbia, population under 30,000",42608
+2019,10,British Columbia,"British Columbia, population under 30,000",43800
+2020,10,British Columbia,"British Columbia, population under 30,000",44250
+2021,10,British Columbia,"British Columbia, population under 30,000",45421
+2022,10,British Columbia,"British Columbia, population under 30,000",48852
+2018,10,British Columbia,"British Columbia, population 30,000 to 99,999",42829
+2019,10,British Columbia,"British Columbia, population 30,000 to 99,999",44046
+2020,10,British Columbia,"British Columbia, population 30,000 to 99,999",44510
+2021,10,British Columbia,"British Columbia, population 30,000 to 99,999",45668
+2022,10,British Columbia,"British Columbia, population 30,000 to 99,999",49082
+2018,10,British Columbia,"British Columbia, population 100,000 to 499,999",47111
+2019,10,British Columbia,"British Columbia, population 100,000 to 499,999",48449
+2020,10,British Columbia,"British Columbia, population 100,000 to 499,999",48964
+2021,10,British Columbia,"British Columbia, population 100,000 to 499,999",50237
+2022,10,British Columbia,"British Columbia, population 100,000 to 499,999",53980
+2018,10,British Columbia,"Vancouver, British Columbia",48677
+2019,10,British Columbia,"Vancouver, British Columbia",50055
+2020,10,British Columbia,"Vancouver, British Columbia",50569
+2021,10,British Columbia,"Vancouver, British Columbia",51884
+2022,10,British Columbia,"Vancouver, British Columbia",55727

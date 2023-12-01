@@ -1,0 +1,31 @@
+REF_DATE,GEO,Income concept,Economic family type,VALUE,STATUS
+2021,Canada,Median total income,Economic families and persons not in an economic family,78200,A
+2020,Canada,Median total income,Economic families and persons not in an economic family,77900,A
+2020,Canada,Median market income,Economic families,87100,A
+2021,Canada,Median market income,Economic families,92100,A
+2020,Canada,Median market income,Persons not in an economic family,24700,B
+2021,Canada,Median market income,Persons not in an economic family,30300,B
+2020,Canada,Median after-tax income,Economic families and persons not in an economic family,69000,A
+2021,Canada,Median after-tax income,Economic families and persons not in an economic family,68400,A
+2020,Canada,Median government transfers,Economic families,21300,A
+2021,Canada,Median government transfers,Economic families,16700,A
+2020,Canada,Median government transfers,Persons not in an economic family,11600,B
+2021,Canada,Median government transfers,Persons not in an economic family,7500,C
+2021,Canada,Median market income,Economic families and persons not in an economic family,61700,A
+2020,Canada,Median market income,Economic families and persons not in an economic family,57500,A
+2020,Canada,Median total income,Economic families,109900,A
+2021,Canada,Median total income,Economic families,110200,A
+2020,Canada,Median total income,Persons not in an economic family,39100,A
+2021,Canada,Median total income,Persons not in an economic family,40500,A
+2020,Canada,Median government transfers,Economic families and persons not in an economic family,17000,A
+2021,Canada,Median government transfers,Economic families and persons not in an economic family,13300,A
+2020,Canada,Median income tax,Economic families,13400,A
+2021,Canada,Median income tax,Economic families,14200,A
+2020,Canada,Median income tax,Persons not in an economic family,3200,B
+2021,Canada,Median income tax,Persons not in an economic family,3900,B
+2021,Canada,Median income tax,Economic families and persons not in an economic family,9200,A
+2020,Canada,Median income tax,Economic families and persons not in an economic family,8200,A
+2020,Canada,Median after-tax income,Economic families,95500,A
+2021,Canada,Median after-tax income,Economic families,95200,A
+2020,Canada,Median after-tax income,Persons not in an economic family,35700,A
+2021,Canada,Median after-tax income,Persons not in an economic family,36100,A
