@@ -33,3 +33,7 @@ Conclusion:
 This R-based data analysis project delves into diverse dimensions of Canada's socio-economic landscape. 
 Through visualization and analysis of income, social belonging, health, crime, and environmental metrics, 
 it aims to unravel insights for informed decision-making and comprehensive understanding across various facets of the country's dynamics.
+<img width="488" alt="image" src="https://github.com/Sagarlimbachiya1993/Data-Analysis--R-programming/assets/106364353/8975d9f7-5b25-41a7-bf7d-655537d7c348">
+<img width="444" alt="image" src="https://github.com/Sagarlimbachiya1993/Data-Analysis--R-programming/assets/106364353/83dc78ff-f648-45bc-a5a0-1557505d10cd">
+<img width="474" alt="image" src="https://github.com/Sagarlimbachiya1993/Data-Analysis--R-programming/assets/106364353/f9faedd7-fd8d-422e-8bf2-cc67f8904481">
+
